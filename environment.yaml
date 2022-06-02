@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - mongodb
   - pip
   - pip:
     -git+https://github.com/colabfit/colabfit-tools.git@master
