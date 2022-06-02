@@ -6,4 +6,4 @@ dependencies:
   - mongodb
   - pip
   - pip:
-    - git+https://github.com/colabfit/colabfit-tools.git@master
+    - git+https://github.com/colabfit/colabfit-tools.git@development
