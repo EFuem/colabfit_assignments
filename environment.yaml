@@ -1,0 +1,8 @@
+name: colabfit
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    -git+https://github.com/colabfit/colabfit-tools.git@master
