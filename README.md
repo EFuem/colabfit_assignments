@@ -1,4 +1,4 @@
 ---
-title: 'Test'
+title: Test
 ---
 # colabfit_assignments
